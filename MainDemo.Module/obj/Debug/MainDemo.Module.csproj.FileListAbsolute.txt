@@ -1,0 +1,13 @@
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\bin\Debug\MainDemo.Module.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\bin\Debug\MainDemo.Module.pdb
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\bin\Debug\de\MainDemo.Module.resources.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.csprojResolveAssemblyReference.cache
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.Controllers.FindBySubjectController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.Controllers.PopupNotesController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.Controllers.TaskActionsController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.Controllers.ClearFieldsController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.MainDemoModule.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.csproj.GenerateResource.Cache
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\de\MainDemo.Module.resources.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module\obj\Debug\MainDemo.Module.pdb

@@ -1,0 +1,13 @@
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\bin\Debug\MainDemo.Module.Web.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\bin\Debug\MainDemo.Module.Web.pdb
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\bin\Debug\de\MainDemo.Module.Web.resources.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.csprojResolveAssemblyReference.cache
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Controllers.ChooseTemplateController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.Controllers.WebNullTextEditorController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.MainDemoWebModule.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.Controllers.MyWebModificationsController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.Controllers.WebTooltipController.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.csproj.GenerateResource.Cache
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\de\MainDemo.Module.Web.resources.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Module.Web\obj\Debug\MainDemo.Module.Web.pdb

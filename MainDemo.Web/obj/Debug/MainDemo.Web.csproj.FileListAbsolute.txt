@@ -1,0 +1,14 @@
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\Model.xafml
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\MainDemo.Web.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\MainDemo.Web.pdb
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\MainDemo.Module.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\MainDemo.Module.Web.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\MainDemo.Module.Web.pdb
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\MainDemo.Module.pdb
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\de\MainDemo.Module.Web.resources.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\de\MainDemo.Module.resources.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.csprojResolveAssemblyReference.cache
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.MainDemoWebApplication.resources
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.csproj.GenerateResource.Cache
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.pdb
