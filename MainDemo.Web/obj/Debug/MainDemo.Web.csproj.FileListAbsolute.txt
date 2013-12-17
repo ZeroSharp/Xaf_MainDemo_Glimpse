@@ -12,3 +12,6 @@ C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.MainDemo
 C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.csproj.GenerateResource.Cache
 C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.dll
 C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\obj\Debug\MainDemo.Web.pdb
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\Glimpse.AspNet.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\Glimpse.Core.dll
+C:\Projects\github\MainDemo_Glimpse\MainDemo.Web\bin\Glimpse.WebForms.dll
